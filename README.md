@@ -6,11 +6,9 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
 
 - Coding in Python: Spending most of my time writing Python code and building ML projects 
 
-- Vibecoding & Web Basics: Vibecoding websites while playing around with HTML, CSS, JS, and PHP
-
 - I have recently gotten into this new website called join.ai, where you code snippets similar to leetcode but this one is specifically for AI, Ml and maths. <br>
 
-- Trying to figure Out AI: Learning the fundamentals of AI, working through DSA, and taking it one step at a time
+- Trying to figure Out AI: Learning the fundamentals of ML and taking it one step at a time
 
 ### Technical Stack:
 - Languages : Python, C, R
@@ -26,7 +24,6 @@ I'm Dipson Mishra, currently a data science undergrad at TU, Nepal. I'm a curiou
 
 - Shows & Movies: Big on binge-watching TV series over watching movies, though I do appreciate good films.
 
-- Music: No fixed taste, constantly switching between Latin Pop, UK Rap, US Country, and Nepali Indie-Pop 🎧
 
 - Reading: Books, manhwas, and thinking about random philosophical questions on reddit
 
